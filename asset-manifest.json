@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/clonedGetflix/static/css/main.8c8ee6f8.css",
-    "main.js": "/clonedGetflix/static/js/main.810fd0b4.js",
+    "main.js": "/clonedGetflix/static/js/main.c5ab9c8f.js",
     "static/js/453.c5eaf93b.chunk.js": "/clonedGetflix/static/js/453.c5eaf93b.chunk.js",
     "index.html": "/clonedGetflix/index.html",
     "main.8c8ee6f8.css.map": "/clonedGetflix/static/css/main.8c8ee6f8.css.map",
-    "main.810fd0b4.js.map": "/clonedGetflix/static/js/main.810fd0b4.js.map",
+    "main.c5ab9c8f.js.map": "/clonedGetflix/static/js/main.c5ab9c8f.js.map",
     "453.c5eaf93b.chunk.js.map": "/clonedGetflix/static/js/453.c5eaf93b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c8ee6f8.css",
-    "static/js/main.810fd0b4.js"
+    "static/js/main.c5ab9c8f.js"
   ]
 }
